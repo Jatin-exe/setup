@@ -1,0 +1,121 @@
+add a helper script for pactl
+	cuz the vol does a mod whenit goes abovce 300 and burts your ears out
+	helper scriptt ofr brighness control
+		bluetooth in aslstatus
+
+
+add mouse butotn shotcuts
+	add gesture control shortcuuts and things in that way
+
+
+rog-control-center
+	always open in float
+
+
+theme, background, transparent ?
+
+
+st patch ?
+
+
+
+aslstatus
+    toogle between more informaiton or less information
+
+    clickalbe
+
+    rss feeds
+
+    change
+
+notify send
+    customized
+    low battery theme
+
+
+icon glyphs , terminal icons fonts for Markdown support and macha dude
+
+
+lf
+	tree support, in the pager view ?
+	fuzzy find
+
+	find text grep in current direcotyr
+
+    jump
+        implement al features of nnn in lf
+            and make the font and colors more pleaseing to look at
+
+
+        that plugin si so good
+    bookmarks
+
+aslstatus ?
+	aesthetics, background color, foreground color, swaybar, waybar
+	make aslstatus bar clikcy  ?
+
+screen capture
+color aesthetics, backgroud image
+	auto color selection
+
+
+gimp , krita
+
+
+
+file preview
+	    atool: for archive files
+    bat: for text files
+    chafa: for image files on Wayland [installed]
+    colordiff: for diff files
+    diff-so-fancy: for diff files
+    elinks: for html files
+    ffmpeg: for audio files [installed]
+    ffmpegthumbnailer: for audio files
+    fontforge: for font files
+    git-delta: for diff files
+    glow: for markdown files
+    gnupg: for gpg-encrypted files [installed]
+    highlight: for text files
+    imagemagick: for svg files [installed]
+    jq: for json files
+    libreoffice-fresh: for office files
+    lynx: for html files
+    mdcat: for markdown files
+    perl-image-exiftool: for any files
+    poppler: for pdf files
+    source-highlight: for text files
+    transmission-cli: for torrent files
+    ueberzug: for image files on X11
+    w3m: for html files
+
+get lf to show a tree for directores
+and jump to direcrieso
+fuzzy serach
+fuzzy find
+
+sort by  file type
+
+disk space usage
+
+
+starship
+
+
+lf
+	cmd share $curl -F"file=@$fx" https://0x0.st | xclip -selection c
+		use wl-copy and rofi here
+
+	how to get lf to use tree for directories
+		i/ shortcut , pager is not :pager command
+
+	lf colors and aesthetics, fonts, icons
+
+
+screenshot
+	using a popup window for customiztion stuff
+		was that using zneity or something else ?
+
+
+
+

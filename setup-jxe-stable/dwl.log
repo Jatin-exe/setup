@@ -1,0 +1,7 @@
+00:00:00.457 [ERROR] [EGL] command: eglQueryDevicesEXT, error: EGL_BAD_ALLOC (0x3003), message: "EGL_BAD_ALLOC error: In eglQueryDevicesEXT: Failed to allocate device list.
+"
+00:00:00.457 [ERROR] [EGL] command: eglQueryDevicesEXT, error: EGL_BAD_ALLOC (0x3003), message: "EGL_BAD_ALLOC error: In eglQueryDevicesEXT: Failed to allocate device list.
+"
+amdgpu: amdgpu_cs_ctx_create2 failed. (-13)
+[0.487] [glfw error 65544]: process_desktop_settings: failed with error: [org.freedesktop.DBus.Error.UnknownMethod] No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[23.787] [glfw error 65544]: Wayland: fatal display error: Broken pipe
